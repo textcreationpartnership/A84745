@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foure matters of high concernment: viz. I. Divers questions upon his Majesties last answer concerning the militia, resolved upon by both Houses of Parliament. II. The humble petition of both Houses of Parliament, to the Kings most Excellent Majesty. III. His Majesties answer to the last message aud [sic] resolution of both Houses of Parliament, concerning the militia and the prince. IIII. The resolution of both Houses of Parliament, March 2. With an order for the speedy rigging of the navy, for the defence of the kingdome.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84745</idno>
+            <idno type="STC">Wing F1662</idno>
+            <idno type="STC">Thomason E137_5</idno>
+            <idno type="STC">ESTC R15773</idno>
+            <idno type="EEBO-CITATION">99859915</idno>
+            <idno type="PROQUEST">99859915</idno>
+            <idno type="VID">156489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foure matters of high concernment: viz. I. Divers questions upon his Majesties last answer concerning the militia, resolved upon by both Houses of Parliament. II. The humble petition of both Houses of Parliament, to the Kings most Excellent Majesty. III. His Majesties answer to the last message aud [sic] resolution of both Houses of Parliament, concerning the militia and the prince. IIII. The resolution of both Houses of Parliament, March 2. With an order for the speedy rigging of the navy, for the defence of the kingdome.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Oulton &amp; G. Dexter, for F. Coules, &amp; T. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156489:1" rendition="simple:additions"/>
+            <p> FOURE MATTERS OF HIGH CONCERNMENT.</p>
+            <p>
+               <hi>Viz.</hi>
+            </p>
+            <p n="1">I. Divers Queſtions upon his Majeſties laſt Anſwer con<g ref="char:EOLhyphen"/>cerning the <hi>Militia,</hi> Reſolved upon by both Houſes of Parliament.</p>
+            <p n="2">II. The humble Petition of both Houſes of Parliament, to the Kings moſt Excellent Majeſty.</p>
+            <p n="3">III. His Majeſties Anſwer to the laſt Meſſage and Reſo<g ref="char:EOLhyphen"/>lution of both Houſes of Parliament, Concerning the Militia and the Prince.</p>
+            <p n="4">IIII. The reſolution of both Houſes of Parliament, March 2. With an Order for the ſpeedy Rigging of the Navy, for the defence of the Kingdome.</p>
+            <figure>
+               <head>AC:OX.</head>
+               <figDesc>seal depicting 3 crowns and an open book</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Oulton</hi> &amp; <hi>G. Dexter,</hi> for <hi>F. Coules,</hi> &amp; <hi>T. Banks,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156489:2"/>
+            <pb n="1" facs="tcp:156489:2"/>
+            <head>THE HUMBLE PETITION OF Both Houſes of Parliament, to the Kings moſt excellent Majeſtie.</head>
+            <opener>
+               <salute>Meſt gracious Soveraigne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſties moſt loyall and obedient ſubjects, the Lords and Commons in Parliament doe find their juſt apprehenſions of ſorrow and fear in reſpect of the publike dangers and miſeries like to fall upon your Majeſtie and the Kingdome, to be much encreaſed up<g ref="char:EOLhyphen"/>on the receit of your unexpected denyall of their moſt humble and neceſſary Petition, concerning the <hi>Militia</hi> of the Kingdom, eſpecially grieving that wicked and miſchievous Counſellors, ſhould ſtill have that power with your Majeſty, as in this time of eminent and approaching ruine, rather to incline your reſolu<g ref="char:EOLhyphen"/>tions to that which is apt to further the accompliſhment of the deſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of the malignant enemies of Gods true Religion, and of the peace and ſafety of your Selfe and your Kingdome, then to the dutifull and faithfull counſell of your <hi>Parliament.</hi>
+            </p>
+            <p>Wherefore they are inforced in all humility to proteſt, that if your Majeſty ſhall perfiſt in that denyall, the dangers and diſ<g ref="char:EOLhyphen"/>tempers of the Kingdome are ſuch, as will indure no longer de<g ref="char:EOLhyphen"/>lay but unleſſe you ſhall be graciouſly pleaſed to aſſure to them by their M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſengers, that you will ſpeedily apply y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Royall Aſſent to the ſatisfaction of their former deſires, they ſhall be inforced for the ſafety of your Majeſty and your Kingdomes, to diſpoſe of the <hi>Militia,</hi> by the authority of both Houſes, in ſuch
+<pb n="2" facs="tcp:156489:3"/> manner as hath beene propounded to your Majeſty, and they re<g ref="char:EOLhyphen"/>ſolve to doe it accordingly.</p>
+            <p>They likewiſe moſt humbly beſeech your Majeſty, to beleeve that the dangerous &amp; deſperate deſigne upon the Houſe of Com<g ref="char:EOLhyphen"/>mon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mentioned in their Preamble, was no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted with any in<g ref="char:EOLhyphen"/>tion to caſt the leaſt aſpertion upon your Majeſty, but therein they reflected upon that malignant party, of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe bloody and mali<g ref="char:EOLhyphen"/>cious practiſes, they have had ſo often experience, and from which they can never be ſecured, unleſſe your Majeſty will be pleaſed to put from you thoſe wicked and unfaithfull Counſel<g ref="char:EOLhyphen"/>lors, who interpoſe their owne corrupt and m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cious deſignes betwixt your Majeſties goodneſſe and wiſedome, and the proſpe<g ref="char:EOLhyphen"/>rity and contentment of your ſelfe, and of your people. And that for the diſpatch of the great affaires of the Kingdome, the ſafety of your Perſon, the protection and comfort of your Subjects, you will be pleaſed to continue your abode neere to <hi>London</hi> and the <hi>Parliament;</hi> &amp; not to withdraw your ſelf to any the remoter parts, which if your Majeſty ſhould doe muſt needs be a cauſe of great danger and diſtraction.</p>
+            <p>That your Maieſty will likewiſe be graciouſly pleaſed to con<g ref="char:EOLhyphen"/>tinue the Princes H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghneſſe in theſe parts at St. <hi>Iameſes,</hi> or any o<g ref="char:EOLhyphen"/>ther of your Houſes, neere <hi>London,</hi> whereby the deſignes which the enemies of the Religion and peace of this Kingdome may have upon his Perſon, and the jealouſies and feares of the peo<g ref="char:EOLhyphen"/>ple may be prevented.</p>
+            <p>And they beſeech your Majeſtie to be informed by them, that by the Laws of the Kingdome, the Power of raiſing, ordering, and diſpoſing the <hi>Militia</hi> within any City, Towne, or other place cannot be granted to any Corporation by Charter, of otherwiſe, without the authority and conſent of Parliament,</p>
+            <p>And that thoſe parts of the Kingdome which have put them<g ref="char:EOLhyphen"/>ſelves in a poſture of defence, againſt the common danger, have therein done nothing out according to the declaration &amp; direct<g ref="char:EOLhyphen"/>ion of both Houſes, and what is Iuſtifiable by the Lawes of this Kingdome,</p>
+            <p>All which; their moſt humble counſell and deſires, they pray your Majeſtie to accept as the effect of that duty, and allegiance, which they owe unto you, and which will not ſuffer them to ad<g ref="char:EOLhyphen"/>mit
+<pb n="3" facs="tcp:156489:3"/> of any thoughts, intentions, or endeavours, but ſuch as are ne<g ref="char:EOLhyphen"/>ceſſary and advantageous for your Majeſties greatneſſ and honour, and the ſafety and proſperity of the Kingdome, according to that truſt, and power which the lawes have repoſed in them.</p>
+         </div>
+         <div type="questions">
+            <head>Divers Queſtions upon his Majeſties laſt Anſwere, Concerning the <hi>Militia,</hi> Reſolved upon by both Houſes of Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liament.</head>
+            <div type="part">
+               <head>Reſolved upon the Queſtion by both Houſes of Parliament.</head>
+               <p>THat this anſwer of His Majeſty is a denyall to the deſires of both Houſes of Parliament, concerning the <hi>Militia.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That thoſe that adviſed His Majeſty to give this anſwer, are Enemies to the State and miſchievous Projectors a<g ref="char:EOLhyphen"/>gainſt the defence of the Kingdomes.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That this denyall is of that dangerous conſe<g ref="char:EOLhyphen"/>quence, that if his Majeſty ſhall perſiſt in it; It will hazard the peace and ſafety of all his Kingdomes, unleſſe ſome ſpeedy reme<g ref="char:EOLhyphen"/>dy be applyed by the Wiſedome and authority of both Houſes of Parliament.</p>
+               <p>
+                  <hi>Reſolved &amp;c.</hi> That ſuch parts of this Kingdom as have put themſelves into a poſture of defence againſt the common danger, hath done nothing but what is juſtifiable, and is approved by the Houſe.</p>
+               <p>
+                  <hi>Reſolved &amp;c.</hi> That if his Majeſty ſhall remove into any remote Parts from his Parliament, it will be a great hazared to the King<g ref="char:EOLhyphen"/>dom; and a great prejudice to the proceedings of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <hi>Reſolved &amp;c.</hi> That theſe Houſes holds it neceſſary, that his Ma<g ref="char:EOLhyphen"/>ieſty may be deſired, That the Prince may come unto Saint <hi>Iames,</hi> or to ſome other convenient place neere about London, and there to continue.</p>
+               <p>
+                  <hi>Roſolved &amp;c.</hi>
+               </p>
+               <p>That the Lords be deſired to joyn with this Houſe in an hum<g ref="char:EOLhyphen"/>ble
+<pb n="4" facs="tcp:156489:4"/> requeſt unto his Maieſty; That he will be pleaſed to reſide neer his <hi>Parliament,</hi> That both Houſes may have a convenience of Acceſſe, unto him upon all occaſions.</p>
+               <p>
+                  <hi>Keſolved &amp;c.</hi> That the Lords be moved to joyn with this Houſe in ſome fit courſe of examination, to find who were the perſons that gave his Majeſty this advice, that they may be removed from his Majeſty: and brought to condigne puniſhment.</p>
+               <p>
+                  <hi>Reſolved &amp;c.</hi> That no Charter can be granted by the King, to create a power in any Corporation, over the <hi>Militia</hi> of that place without conſent of <hi>Parliament.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved &amp;c.</hi> That the Lords ſhall be moved to joyn with this Houſe in theſe Votes.</p>
+               <p>
+                  <hi>Keſolved &amp;c.</hi> That the Lords ſhall be deſired to appoynt a ſelect Committee, that may joyne with a Committee of a proportiona<g ref="char:EOLhyphen"/>ble number of this Houſe; to conſider, and prepare what is fit to be done upon theſe Votes, or upon any thing that may ariſe up<g ref="char:EOLhyphen"/>on this anſwer of his Majeſty concerning the <hi>Mil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ita,</hi> and con<g ref="char:EOLhyphen"/>cerning the Prince.</p>
+            </div>
+         </div>
+         <div type="resolution">
+            <head>
+               <hi>March,</hi> 2. Queſtions reſolved upon by both Hou<g ref="char:EOLhyphen"/>ſes of <hi>Parliament:</hi> With an Order for the ſpeedy Rigging of the Navy, for the defence of the Kingdome</head>
+            <p>
+               <hi>Reſolved upon the Queſtion by both Houſes of</hi> Parliament.</p>
+            <p>THat the Kingdom be forthwith put into a poſture of defence, by Authority of both Houſes, in ſuch a way as is already agreed upon by both Houſes of Parliament.</p>
+            <p>
+               <hi>Reſolved &amp;c.</hi>
+            </p>
+            <p>That the Lords be deſired to joyn with the Houſe of <hi>Commons</hi> in this Vote.</p>
+            <p>
+               <hi>Reſolved &amp;c.</hi>
+            </p>
+            <p>That a Committe ſhall be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pointed to prepare a Declaration up<g ref="char:EOLhyphen"/>on theſe two Heads, <hi>viz.</hi>
+            </p>
+            <p n="1">
+               <pb n="5" facs="tcp:156489:4"/> 1 To ſay downe the juſt cauſes of the feares and Jealouſies gi<g ref="char:EOLhyphen"/>ven to theſe Houſes; and to cleare theſe Houſes from any jealou<g ref="char:EOLhyphen"/>ſies conceived againſt them.</p>
+            <p n="2">2. And to conſider of all matters that may ariſe upon this Meſ<g ref="char:EOLhyphen"/>ſage of his Majeſty and to declare their opinions what is fit to be done thereupon.</p>
+            <p>
+               <hi>Die Mercuriij,</hi> 2. <hi>Martij.</hi> 1641.</p>
+            <p>THe Lords and Commons in this preſent <hi>Parliament</hi> aſſem<g ref="char:EOLhyphen"/>bled, having received advertiſement of extraordinary prepa<g ref="char:EOLhyphen"/>rations made by the neighboring Princes, both by Land and Sea, the intentions whereof have beene ſo repreſented, as to raiſe an apprehenſion in both Houſes, that the publike honour, peace, and ſafety of his Majeſty and his Kingdome cannot be ſecured unleſſe a timely courſe be taken for the putting of this Kingdome into a condition of defence, as well as Land. It is therefore Or<g ref="char:EOLhyphen"/>dered, by the Lords and Commons aforeſaid, that the Earle of <hi>Norththumberland,</hi> Lord high Admirall of England, do forth with give effectuall direction and order, that all and every the Ships belonging to his Majeſties Navy, which are fit for ſervice, and not already abroad, nor deſigned for this Summers Fleet, be with all ſpeed Rigged, and put in ſuch a readineſſe, as that they may ſoon be fitted for the Sea; And that his Lordſhip do alſo make known unto all the Maſters and owners of ſuch Ships as now are in, or about any the Harbors of this Kingdom, &amp; may be of uſe for the publike defence thereof, That it will be an accep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able ſervice to the King and <hi>Parliament,</hi> if they likewiſe will cauſe their ſhips to be Rigged, and ſo farre put in a readineſſe, as they may beat a ſhort warning ſet forth to Sea, upon any immergent occaſion, which will be a meanes of great ſecurity to his Maieſty and his Dominions.</p>
+         </div>
+         <div type="response">
+            <pb facs="tcp:156489:5"/>
+            <head>His Majeſties anſwer.</head>
+            <p>I <hi>Am ſo much amazed at this Meſſage, that I know not what to anſwer. You ſpeake of Iealouſies and feares, lay your hands to your Hearts, and aske your ſelves whether I may not likewiſe be diſ<g ref="char:EOLhyphen"/>turbed with Feares and Iealouſies; and if ſo, I aſſure you this Meſſage hath nothing leſſened them.</hi>
+            </p>
+            <p>
+               <hi>For the</hi> Mil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tia, <hi>I thought ſo much of it be<g ref="char:EOLhyphen"/>fore I ſent that anſwer, and am ſo much aſſured that the Anſwer is agreeable to what in Iuſtice or Reaſon you can aske, or I in Honour Grant, that I ſhall not alter it in any point.</hi>
+            </p>
+            <p>
+               <hi>For my reſidence neere you I wiſh it might be ſafe and Honourable, that I had no cauſe to abſent my ſelfe from</hi> White-Hall, <hi>aske your ſelves whether I have not.</hi>
+            </p>
+            <p>
+               <hi>For my Sonne I ſhall take care of him, which ſhall Iuſtifie me to God as a Father and to my Dominions as a King.</hi>
+            </p>
+            <p>
+               <hi>To conclude, I aſſure you vpon my Ho<g ref="char:EOLhyphen"/>nour, that I have no thought but of Peace and Iuſtice to my people, which I ſhall by all faire meanes ſeeke to preſerue and main<g ref="char:EOLhyphen"/>taine, relying upon the goodneſſe and pro<g ref="char:EOLhyphen"/>vidence of GOD, for the preſeruatiue of my ſelfe and Rights.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
